@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #fff;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.items {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.item {
+  margin-right: 1rem;
+}
